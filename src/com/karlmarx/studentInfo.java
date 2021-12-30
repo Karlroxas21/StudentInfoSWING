@@ -40,7 +40,7 @@ public class studentInfo extends JFrame implements ActionListener {
 
         this.setTitle("Student Information");
         this.setDefaultCloseOperation(EXIT_ON_CLOSE);
-        this.setSize(500, 300);
+        this.setSize(240, 160);
         this.setResizable(false);
         this.setLayout(null);
         this.setVisible(true);
